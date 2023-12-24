@@ -9,7 +9,7 @@
 
 # 사전 준비 사항
 
-Windows 사용자는 [이 페이지에 있는 Windows Binary Release](https://imagemagick.org/script/download.php#windows) 페이지에 있는 아래 파일을 다운로드 받아서 설치해주세요.
+Windows 사용자는 [Windows Binary Release](https://imagemagick.org/script/download.php#windows) 페이지에 있는 아래 파일을 다운로드 받아서 설치해주세요.
 
 ```
 ImageMagick-x.x.x-xx-Q16-HDRI-x64-dll.exe
