@@ -1,6 +1,6 @@
 # 설명
 
-여러 사진을 한 장의 격자 사진으로 합쳐주는 프로그램입니다.
+여러 사진을 한 장의 격자 사진으로 합쳐주는 프로그램입니다. (JPG 또는 PNG 형식으로 저장됩니다.)
 
 내부적으로 [ImageMagick](https://imagemagick.org)의 [montage](https://imagemagick.org/script/montage.php)를 사용합니다.
 
