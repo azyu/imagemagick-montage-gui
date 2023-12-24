@@ -26,4 +26,4 @@ ImageMagick-x.x.x-xx-Q16-HDRI-x64-dll.exe
 
 # 버그 및 건의사항
 - 간단하게 만든 거라서 버그 많습니다...
-- X(구 트위터) _uyza_ 로 알려주시거나 Issue 또는 PR 편하게 넣어주세요.
+- 트위터/X: \_uyza\_ 에게 멘션 주시거나 Issue 또는 PR 편하게 넣어주세요.
