@@ -4,11 +4,12 @@
 
 내부적으로 [ImageMagick](https://imagemagick.org)의 [montage](https://imagemagick.org/script/montage.php)를 사용합니다.
 
-<img alt="image" src="https://github.com/azyu/imagemagick-montage-gui/assets/1789839/cadee901-bb5c-4e1c-9f5f-bbe9b116f9b5">
+![image](https://github.com/azyu/imagemagick-montage-gui/assets/1789839/ec62f96f-d89a-4e1d-88a1-91c71182c64e)
+![image](https://github.com/azyu/imagemagick-montage-gui/assets/1789839/f009b8a0-8307-4fc4-95d1-798bb07956e9)
 
 # 사전 준비 사항
 
-Windows 사용자는 [이 페이지에 있는 Windows Binary Release](https://imagemagick.org/script/download.php) 페이지에 있는 아래 파일을 다운로드 받아서 설치해주세요.
+Windows 사용자는 [이 페이지에 있는 Windows Binary Release](https://imagemagick.org/script/download.php#windows) 페이지에 있는 아래 파일을 다운로드 받아서 설치해주세요.
 
 ```
 ImageMagick-x.x.x-xx-Q16-HDRI-x64-dll.exe
